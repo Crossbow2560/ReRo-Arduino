@@ -2,7 +2,7 @@
 #define ENCODER_TIMER_H
 
 #include <Arduino.h>
-#include <TimerOne.h>
+#include "TimerOne.h"
 
 class EncoderTimer {
 public:
